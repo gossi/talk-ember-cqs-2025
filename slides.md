@@ -2,7 +2,6 @@
 theme: apple-basic
 title: Scalable Frontend Architecture that meets Your Business
 author: Thomas Gossmann
-download: true
 layout: section
 ---
 <!-- markdownlint-disable -->
