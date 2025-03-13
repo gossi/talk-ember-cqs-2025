@@ -1,0 +1,13 @@
+ol {
+  list-style: decimal;
+}
+
+.two-columns {
+  gap: 1.5rem;
+}
+
+.two-cols-header {
+  column-gap: 1.5rem;
+  grid-template-rows: auto 1fr !important;
+  row-gap: 1.5em;
+}
