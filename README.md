@@ -1,11 +1,7 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)
+# Command and Query Separation (CQS) in Ember
 
-To start the slide show:
+How to integrate Functions into Ember with access to Embers DI system
 
-- `pnpm install`
-- `pnpm run dev`
-- visit <http://localhost:3030>
+[Read the Slides](https://ember-cqs.netlify.app)
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+[Watch my Emberfest Talk on "Scalable Frontend Architecture That Meets Your Business"](https://www.youtube.com/watch?v=GkPXdC32t3Q&pp=ygUSZW1iZXJmZXN0IGdvc3NtYW5u)
