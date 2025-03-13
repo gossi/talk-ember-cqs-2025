@@ -26,6 +26,19 @@ aka. how to use functions in a reactive environment with access to Ember's DI sy
 </div>
 
 ---
+layout: full
+---
+
+# More Technical Details to my Emberfest Talk
+
+for the curios, no prerequisite for this deck
+
+<Youtube id="GkPXdC32t3Q" width="100%" height="70%" />
+
+Slides for [Scalable Frontend Architecture That Meets Your Business @
+Notist](https://noti.st/gossi/a8pBoc/scalable-frontend-architecture-that-meets-your-business)
+
+---
 layout: section
 ---
 
@@ -144,7 +157,7 @@ layout: two-cols-header
 ## Critical Functions
 
 - Contain business logic
-- A failure can lead to significant revenue loss
+- A failure can lead to <span v-mark.underline.orange>significant revenue loss</span>
 - They are your heartbeat
 </v-click>
 
@@ -156,7 +169,7 @@ layout: two-cols-header
 
 - Complementary to the business
 - eg. give you the locale string for a domain object
-- A failure is less important (may cause "weird rendering")
+- A failure is "neglectable" (may cause "weird rendering")
 
 </v-click>
 
